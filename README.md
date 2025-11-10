@@ -1,12 +1,10 @@
 INTEGRANTE 1: ADRIANA ALVARADO
 
-INTEGRANTE 2: EMILY RAMIREZ
+INTEGRANTE 2: EMILY RAMIREZ https://colab.research.google.com/drive/11ftO1iBsa-P7O7TBxkJMeJuUroo05SUn?usp=sharing
 
 INTEGRANTE 3: DEISSY VANEGAS
 
 INTEGRANTE 4: JESSICCA ROCCHA
-
-https://colab.research.google.com/drive/11ftO1iBsa-P7O7TBxkJMeJuUroo05SUn?usp=sharing
 
 Taller 5
 
