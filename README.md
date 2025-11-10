@@ -10,12 +10,14 @@ Ejecutarlo en su equipo y modificar los hiperparámetros en las celdas de Grid S
 y Random Search.
 Subir el trabajo a GitHub institucional en un repositorio llamado TALLER_5.
 El archivo del notebook debe llamarse MLP_inicial.ipynb.
+
 *(20 %) Interpretación de resultados
 En el mismo notebook, agregar una celda final titulada “Respuestas”. Explicar e interpretar
 las métricas y los hiperparámetros obtenidos para:
 Regresión lineal.
 MLP con Grid Search.
 MLP con Random Search.
+
 *(20 %)Evidencia de congreso (requisito adicional)
 Por grupo, adjuntar foto o selfie de los integrantes (asistencia presencial o virtual) y un párrafo
 de 5 líneas con resumen/reflexión de una charla vista en el congreso. Entregar esta evidencia
